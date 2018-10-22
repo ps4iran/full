@@ -1,2 +1,2 @@
-http://ps4iran.github.io
+http://ps4iran.github.io/full
 # full
